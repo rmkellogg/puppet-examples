@@ -1,0 +1,2 @@
+helloworld2_puppet::var1: "var 1 from hiera"
+
