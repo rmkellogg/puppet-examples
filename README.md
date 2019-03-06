@@ -1,5 +1,6 @@
-# helloworld_puppet
-Example automation example with use of external parameters
+# Puppet Examples
+
+Examples with use of externally configured parameters.
 
 Change directory to puppet-examples folder
 
