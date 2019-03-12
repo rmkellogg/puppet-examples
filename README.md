@@ -22,3 +22,13 @@ Usage:
   puppet apply --modulepath=. -e "include helloworld2_puppet"
 
 
+helloworld3_puppet
+===
+
+Demonstrates the use of a variable configured in the hiera/data/common.yaml file with results stored in ERB template in /tmp/hello-template.txt
+
+Usage:
+  puppet apply --modulepath=. -e "include helloworld3_puppet"
+
+
+
