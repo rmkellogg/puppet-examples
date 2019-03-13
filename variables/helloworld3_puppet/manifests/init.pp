@@ -5,7 +5,7 @@ class helloworld3_puppet (
 
    file { '/tmp/hello-template.txt':
       ensure  => file,
-      content => template('tmp/hello-template.erb'),
+      content => template('hello-template.erb'),
    }
 }
 
