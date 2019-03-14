@@ -31,4 +31,13 @@ Usage:
   puppet apply --modulepath=. -e "include helloworld3_puppet"
 
 
+helloworld4_puppet
+===
+
+Demonstrates the use of stdlib function
+
+Usage:
+  puppet apply --modulepath=. -e "include helloworld4_puppet"
+
+
 
