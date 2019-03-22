@@ -40,4 +40,14 @@ Usage:
   puppet apply --modulepath=. -e "include helloworld4_puppet"
 
 
+remove-tftp
+===
+
+Demonstrates the removal of an existing RPM
+
+Usage:
+  puppet apply --modulepath=. -e "include remove-tftp"
+
+
+
 
